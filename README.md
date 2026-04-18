@@ -38,7 +38,7 @@ FingerConnect/
 
 **1\. Clone or Download**
 
-git clone <https://github.com/your-username/fingerconnect.git>
+git clone <https://github.com/sameermauryadesign/fingerConnect.git>
 
 cd fingerconnect
 
